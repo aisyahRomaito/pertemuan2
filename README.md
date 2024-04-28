@@ -12,7 +12,7 @@ _tulisan miring_
 - dia
 - lo
 
-[wikipedia](https://en.wikipedia.org/wiki/Special:Search?go=Go&search=buaya&ns0=1)
+[wikipedia](https://www.wikipedia.org/)
 ![buaya](https://asset.kompas.com/crops/_lnTEzkJGbrAnZdEkj8OFValMFc=/0x0:780x520/1200x800/data/photo/2019/04/01/1894150438.jpg)
 
 | Planet  | Diameter | Jumlah Satelit |
